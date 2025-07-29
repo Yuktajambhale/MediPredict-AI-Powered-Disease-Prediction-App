@@ -1,0 +1,1 @@
+# MediPredict-AI-Powered-Disease-Prediction-App
