@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+joblib
+tqdm
+streamlit
+fpdf
